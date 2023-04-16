@@ -38,7 +38,7 @@ sudo apt-get update -y;sudo apt-get install -y kde-spectacle
 ```
 # 4 - Configurar mais de um layout de teclado 
 
-<img src="assets/teclado.jpg" width=300 height=300 alt="layout keyboard kde plasma">
+<img src="assets/teclado.png" width=300 height=300 alt="layout keyboard kde plasma">
 
 # 5 - Install NVidia Drive
 Install NVIDIA Drivers on Ubuntu 22.04 LTS
