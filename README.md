@@ -5,7 +5,7 @@ Alienware with other hardware:
 * UGreen 9-in-1 USB-C Hub
 * LG HDMI external monitor
 * External VGA LG monitor connected to Ugreen
-* Logitech Ugreen keyboard
+* Logitech MX Keys keyboard connected to Ugreen
 * Logitech mouse connected to Ugreen
 * wired network connected to Ugreen
 
@@ -23,7 +23,7 @@ Alienware com outros hardwares:
 * Hub USB-C UGreen 9 em 1
 * Monitor externo LG HDMI
 * Monitor LG externo VGA ligado no Ugreen
-* teclado Logitech Ugreen
+* teclado Logitech MX Keys ligado no Ugreen
 * mouse Logitech ligado no Ugreen
 * rede cabeada ligado no Ugreen
 
