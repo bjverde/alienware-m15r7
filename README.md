@@ -17,7 +17,7 @@ See this documentation in other languages:
 
 <img src="assets/ugreen_hub_usb-c-9in1.jpg" width=300 height=300 alt="Hub USB-C 9in1">
 
-Como configurar o notebook Dell :alien: Alienware M15 R7 :computer: com Linux :penguin: Ubuntu Studio 22.04 LTS 
+Como configurar o notebook Dell :alien: Alienware M15 R7 :computer: com Linux :penguin: Ubuntu Studio 22.04 LTS, a interface grafica de referencia ẽ o KDE Plamas
 
 Alienware com outros hardwares:
 * Hub USB-C UGreen 9 em 1
@@ -32,14 +32,20 @@ Alienware com outros hardwares:
 
 # 2 - Altere a configuração da BIOS 
 
-# 3 - Install NVidia Drive
+# 3 - Sugestoes de software adicionais
+```bash
+sudo apt-get update -y;sudo apt-get install -y kde-spectacle
+```
+# 4 - Configurar mais de um layout de teclado 
+
+# 5 - Install NVidia Drive
 Install NVIDIA Drivers on Ubuntu 22.04 LTS
 https://linuxhint.com/install-nvidia-drivers-on-ubuntu/
 
-# 4 - Install Wireless
+# 6 - Install Wireless
 
-# 5 - Install ddcci-plasmoid
+# 7 - Install ddcci-plasmoid
 KDE Plasma Widget for external monitor brightness adjustment
 https://github.com/davidhi7/ddcci-plasmoid
 
-# 6 - Configurar mais de um layout de teclado 
+
