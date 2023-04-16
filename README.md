@@ -1,15 +1,16 @@
-# alienware-m15r7
+# Alienware M15 R7
 How to config Alienware M15 R7 with Linux
 
-![Alienware M15 R7](assetes/dell-alienware-m15-r7.jpg)
-
-![Ugreen](assetes/ugreen_hub_usb-c-9in1.jpg)
+<img src="assets/dell-alienware-m15-r7.jpg" alt= “Notebook Dell AlienWare M15 R7” width="600" height="600">
 
 
-#Setup bios security
+<img src="assets/ugreen_hub_usb-c-9in1.jpg" alt= “Hub Usb-C UGreen” width="400" height="400">
 
-#Install NVidia Drive
 
-#Install Wireless
+# Setup bios security
 
-#Install
+# Install NVidia Drive
+
+# Install Wireless
+
+# Install
