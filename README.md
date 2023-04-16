@@ -13,4 +13,6 @@ How to config Alienware M15 R7 with Linux
 
 # Install Wireless
 
-# Install
+# Install ddcci-plasmoid
+KDE Plasma Widget for external monitor brightness adjustment
+https://github.com/davidhi7/ddcci-plasmoid
