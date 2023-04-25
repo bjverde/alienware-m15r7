@@ -32,6 +32,7 @@ Alienware com outros hardwares:
 https://www.dell.com/support/kbdoc/pt-br/000125230/how-to-create-and-use-the-dell-recovery-restore-usb-drive
 
 # 2 - Altere a configuração da BIOS 
+https://www.dell.com/support/kbdoc/pt-br/000148406/alienware-sistemas-baseados-em-ubuntu-disable-secure-boot-to-modify-ou-replace-o-carregador-de-inicializa%C3%A7%C3%A3o
 
 # 3 - Sugestoes de software adicionais
 ```bash
