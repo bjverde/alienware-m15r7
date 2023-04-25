@@ -29,6 +29,7 @@ Alienware com outros hardwares:
 
 
 # 1 - Faça um pendrive de instalção de segurança
+https://www.dell.com/support/kbdoc/pt-br/000125230/how-to-create-and-use-the-dell-recovery-restore-usb-drive
 
 # 2 - Altere a configuração da BIOS 
 
