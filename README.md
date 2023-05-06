@@ -47,6 +47,7 @@ Install NVIDIA Drivers on Ubuntu 22.04 LTS
 https://linuxhint.com/install-nvidia-drivers-on-ubuntu/
 
 # 6 - Install Wireless
+https://askubuntu.com/questions/1439264/no-wi-fi-adapter-found-on-ubuntu-22-04-on-alienware-m15-r17
 
 # 7 - Install ddcci-plasmoid
 KDE Plasma Widget for external monitor brightness adjustment
